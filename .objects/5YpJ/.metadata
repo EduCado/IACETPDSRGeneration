@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Educado Institute (RPA & AI ) 8882982212",
+  "Type": "App",
+  "Id": "5YpJtcMS7kOoO8wBlTpKTg",
+  "Reference": "91SST1H6zUyJT-aXxq0TZg/5YpJtcMS7kOoO8wBlTpKTg",
+  "Created": "2025-04-05T06:19:21.8488275Z",
+  "Updated": "2025-04-05T06:19:21.8488275Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
